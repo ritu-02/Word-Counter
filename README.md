@@ -8,7 +8,7 @@ The beginner-friendly project utilizes Swing, a GUI toolkit for Java, to create 
    - It counts the number of words, characters (excluding spaces), and lines in the paragraph.
 
 3. **Displaying Statistics**:
-   - The application displays the computed statistics in a dialog box or a separate section of the UI.
+   - The application displays the computed statistics in a separate section of the UI.
    - Users can easily see the breakdown of words, characters, and lines in their input.
 
 4. **Error Handling**:
